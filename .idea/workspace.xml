@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5c2930b-c08a-4e07-a92e-b2d1c165e575" name="Default Changelist" comment="" />
+    <list default="true" id="d5c2930b-c08a-4e07-a92e-b2d1c165e575" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/myModel.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/myModel.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +19,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="1c373a2a-8408-4656-a6e2-9951bb9f6fee" />
   <component name="ProjectId" id="1ZerqvzsxnQ3FLDPnsRc66S5IU2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,6 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
@@ -89,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585210594447</updated>
       <workItem from="1585210611194" duration="9408000" />
-      <workItem from="1585400068239" duration="747000" />
+      <workItem from="1585400068239" duration="1849000" />
     </task>
     <servers />
   </component>
@@ -101,21 +111,33 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="0" y="0" key="FileDocumentManager.FileCacheConflict/0.0.1680.1050@0.0.1680.1050" timestamp="1585350127436" />
-    <state width="1626" height="281" key="GridCell.Tab.0.bottom" timestamp="1585381329435">
+    <state x="668" y="409" key="Github.ShareDialog" timestamp="1585400916904">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1626" height="281" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585381329435" />
-    <state width="1626" height="281" key="GridCell.Tab.0.center" timestamp="1585381329433">
+    <state x="668" y="409" key="Github.ShareDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1585400916904" />
+    <state width="1626" height="281" key="GridCell.Tab.0.bottom" timestamp="1585401096942">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1626" height="281" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585381329433" />
-    <state width="1626" height="281" key="GridCell.Tab.0.left" timestamp="1585381329432">
+    <state width="1626" height="281" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585401096942" />
+    <state width="1626" height="281" key="GridCell.Tab.0.center" timestamp="1585401096941">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1626" height="281" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585381329432" />
-    <state width="1626" height="281" key="GridCell.Tab.0.right" timestamp="1585381329433">
+    <state width="1626" height="281" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585401096941" />
+    <state width="1626" height="281" key="GridCell.Tab.0.left" timestamp="1585401096941">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1626" height="281" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585381329433" />
+    <state width="1626" height="281" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585401096941" />
+    <state width="1626" height="281" key="GridCell.Tab.0.right" timestamp="1585401096941">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1626" height="281" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585401096941" />
+    <state x="302" y="208" key="IDE.errors.dialog" timestamp="1585401264572">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="302" y="208" key="IDE.errors.dialog/0.0.1680.1050@0.0.1680.1050" timestamp="1585401264572" />
+    <state x="340" y="202" key="Vcs.Push.Dialog.v2" timestamp="1585400990852">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="340" y="202" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1585400990852" />
   </component>
 </project>
