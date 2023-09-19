@@ -1,3 +1,5 @@
+[![CodeQL](https://github.com/PradeepThapa/ml-classification-bank-marketing/actions/workflows/codeql.yml/badge.svg?branch=master)](https://github.com/PradeepThapa/ml-classification-bank-marketing/actions/workflows/codeql.yml)
+
 # **Machine Learning Algorithms**
  - Decision Tree Classification
  - Random Forest Classification
